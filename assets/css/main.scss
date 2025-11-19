@@ -95,6 +95,7 @@ h1:before, .anchor:before {
     width: 0; 
     height: $scroll_offset; 
     margin-top: -$scroll_offset;
+    border-bottom: 1.5px solid #dedede;
 }
 
 .badge {
