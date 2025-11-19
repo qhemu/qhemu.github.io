@@ -21,7 +21,7 @@ I am a Ph.D. candidate in the prestigious Dual Degree Ph.D. Program jointly offe
 
 Further broadening my international research experience, I received funding via the <strong>Research Student Attachment Programme (RSAP, PolyU)</strong> for a visiting research position at <strong>Imperial College London</strong> (Department of Computing). I will be attached to the <a href="https://wp.doc.ic.ac.uk/aese/" target="_blank">AESE research group</a> from <strong>July to November 2025</strong>, under the supervision of <a href="https://wp.doc.ic.ac.uk/aese/people/julie-a-mccann/" target="_blank">Prof. Julie A. McCann</a>.
 
-My broader expertise spans key areas including Deep Learning, Embodied AI, Meta-Learning, Few-Shot Learning, and Uncertainty Quantification. I have published more than 6 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hKi_z-QAAAAJ'>google scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 
 # 🔥 News
