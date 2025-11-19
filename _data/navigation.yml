@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-Education-Background"
 
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/#-Teaching-Assistant"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
