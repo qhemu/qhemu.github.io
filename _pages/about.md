@@ -39,14 +39,6 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 
 				
 
-# 🎖 Honors and Awards
-- *2025* Recognition Award on the MATA Awards (PolyU)
-- *2022-2025* Nankai University Public Ability Scholarship for three consecutive years.  
-- *2022* ByteDance Best Newcomer Award.  
-- *2019-2021* The First-Class Merit Scholarship for two consecutive years. \hfill {\em 2019-2021}  
-- *2019* Outstanding Postgraduate.
-
-
 # 📖 Education Background
 - *2022.09 - Present*, Ph.D. Candidate, Department of Computing, The Hong Kong Polytechnic University, Supervisor: Prof. Jiannong Cao. 
 - *2022.09 - Present*, Ph.D. Candidate, The School of Artificial Intelligence, Nankai University, Supervisor: Prof. Hongpeng Wang.
@@ -60,4 +52,14 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 - *2023/24 Sem 2*, ARTIFICIAL INTELLIGENCE CONCEPTS (COMP5511-20232-A), Subject Lecturer: Dr.YANG Yu. 
 - *2023/24 Sem 1*, DATA STRUCTURES (COMP2011-20231-A), Subject Lecturer: Dr.CAO Yixin.
 - *2018/19 Sem 2*, DATA MINING.
+
+
+# 🎖 Honors and Awards
+- *2025* Recognition Award on the MATA Awards (PolyU)
+- *2022-2025* Nankai University Public Ability Scholarship for three consecutive years.  
+- *2022* ByteDance Best Newcomer Award.  
+- *2019-2021* The First-Class Merit Scholarship for two consecutive years. 
+- *2019* Outstanding Postgraduate.
+
+
 
