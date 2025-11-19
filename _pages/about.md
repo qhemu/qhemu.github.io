@@ -34,7 +34,7 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 - 2025.07: 🎉 Awarded the Research Student Attachment Programme (RSAP) funding for the research visit to Imperial College London (ICL).
 
 # 📝 Publications 
-{% include_relative includes/pub.md %}
+{% include_relative includes/pubs.md %}
 
 
 				
