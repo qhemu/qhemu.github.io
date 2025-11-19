@@ -46,7 +46,7 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 - *2018.09 - 2021.06*, M.S., Software Engineering, The University of Electronic Science and Technology of China (UESTC), Supervisor: Prof.Fan Zhou, Prof.Jiahao Wang.
 
 
-# 💬 Teaching
+# 💬 Teaching Assistant
 - *2024/25 Sem 2*, INTRODUCTION TO COMPUTER SYSTEMS (COMP1411-20242-B), Subject Lecturer: Dr. LYU Mingsong. 
 - *2024/25 Sem 1*, PROGRAMMING FUNDAMENTALS AND APPLICATIONS (COMP1012-20241-C), Subject Lecturer: Dr. Ir. Mohammed Aquil Maud Mirza.
 - *2023/24 Sem 2*, ARTIFICIAL INTELLIGENCE CONCEPTS (COMP5511-20232-A), Subject Lecturer: Dr.YANG Yu. 
