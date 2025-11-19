@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.Z
 
+# My broader expertise spans key areas including Deep Learning, Embodied AI, Meta-Learning, Few-Shot Learning, and Uncertainty Quantification. I have published more than 6 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hKi_z-QAAAAJ'>google scholar citations <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 # Site Settings
 title                    : "Xiuxiu Qi"
 description              : "Dual Degree Ph.D. Candidate (PolyU / Nankai U.) in Computing and AI, under the joint supervision of Prof. Cao Jiannong and Prof. Wang Hongpeng."
