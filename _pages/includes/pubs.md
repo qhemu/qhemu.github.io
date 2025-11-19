@@ -75,3 +75,10 @@ Jiahao Wang, Wenxiong Li, **Xiuxiu Qi（*）**, Yuheng Ren
 Fan Zhou, **Xiuxiu Qi**, Xovee Xu, Jiahao Wang, Ting Zhong, Goce Trajcevskiy
 </div>
 </div>
+
+## Patents
+- China Invention Patent, No. CN109670548A: Multi-Scale Input HAR Algorithm Based on Improved LSTM-CNN. Jiahao Wang, Qiuling Long, Liang Li, **Xiuxiu Qi**, Yingzi Xie, Kexuan Liu.
+- China Invention Patent, No. CN113986890A: A Few-Shot Learning-Based Joint Hospital Data Migration Method and System. Jiahao Wang, **Xiuxiu Qi**, Wenxiong Li, Dajiang Chen, Jun Zhu, Ping Xiang, Xiaole Bao.
+- China Invention Patent, No. CN109508677A: An Airborne Handwriting Action Recognition Method Based on an Improved CNN Network. Jiahao Wang, Yingzi Xie, Qiuling Long, Liang Li, **Xiuxiu Qi**.
+
+
