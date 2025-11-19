@@ -28,8 +28,8 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 
 
 # 🔥 News
-- 2025.11: 🎉🎉 A paper is accepted by the SCIENCE CHINA Information Sciences (SCIS), Congratulations to Hanqian.
 - 2025.11: 🎉🎉 A paper is accepted by the AAAI Conference on Artificial Intelligence (AAAI 2026).
+- 2025.11: 🎉🎉 A paper is accepted by the SCIENCE CHINA Information Sciences (SCIS), Congratulations to Hanqian.
 - 2025.09: 🎉 Awarded the Recognition Award on the MATA Awards 2024/25 for teaching COMP1012. 
 - 2025.07: 🎉 Awarded the Research Student Attachment Programme (RSAP) funding for the research visit to Imperial College London (ICL).
 
@@ -40,16 +40,24 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 				
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Recognition Award on the MATA Awards (PolyU)
+- *2022-2025* Nankai University Public Ability Scholarship for three consecutive years.  
+- *2022* ByteDance Best Newcomer Award.  
+- *2019-2021* The First-Class Merit Scholarship for two consecutive years. \hfill {\em 2019-2021}  
+- *2019* Outstanding Postgraduate.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education Background
+- *2022.09 - Present*, Ph.D. Candidate, Department of Computing, The Hong Kong Polytechnic University, Supervisor: Prof. Jiannong Cao. 
+- *2022.09 - Present*, Ph.D. Candidate, The School of Artificial Intelligence, Nankai University, Supervisor: Prof. Hongpeng Wang.
+- *2021.06 - 2022.08*, Software Engineer, ByteDance.
+- *2018.09 - 2021.06*, M.S., Software Engineering, The University of Electronic Science and Technology of China (UESTC), Supervisor: Prof.Fan Zhou, Prof.Jiahao Wang.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💬 Teaching
+- *2024/25 Sem 2*, INTRODUCTION TO COMPUTER SYSTEMS (COMP1411-20242-B), Subject Lecturer: Dr. LYU Mingsong. 
+- *2024/25 Sem 1*, PROGRAMMING FUNDAMENTALS AND APPLICATIONS (COMP1012-20241-C), Subject Lecturer: Dr. Ir. Mohammed Aquil Maud Mirza.
+- *2023/24 Sem 2*, ARTIFICIAL INTELLIGENCE CONCEPTS (COMP5511-20232-A), Subject Lecturer: Dr.YANG Yu. 
+- *2023/24 Sem 1*, DATA STRUCTURES (COMP2011-20231-A), Subject Lecturer: Dr.CAO Yixin.
+- *2018/19 Sem 2*, DATA MINING.
+
