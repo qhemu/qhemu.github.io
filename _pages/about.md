@@ -25,8 +25,9 @@ My broader expertise spans key areas including Deep Learning, Embodied AI, Meta-
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- * 2025.11: 🎉 A paper is accepted by the AAAI Conference on Artificial Intelligence (AAAI 2026).
+- * 2025.09: 🎉🎉 Awarded the Recognition Award on the MATA Awards 2024/25 for teaching COMP1012. 
+- * 2025.07: 🎉🎉 Awarded the Research Student Attachment Programme (RSAP) funding for the research visit to Imperial College London (ICL).
 
 # 📝 Publications 
 
