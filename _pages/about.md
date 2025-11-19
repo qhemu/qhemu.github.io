@@ -73,7 +73,7 @@ Fan Zhou, **Xiuxiu Qi**, Chunjing Xiao, Jiahao Wang
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">Computer Science 2022</div></div></div>
+<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">CS 2022</div></div></div>
 <div class='paper-box-text' markdown="1" style="max-width: 90%;">
 
 [A Matrix Completion Prediction Fusion Algorithm Based on Probabilistic Meta-Learning]()
@@ -85,7 +85,7 @@ Fan Zhou, **Xiuxiu Qi**, Chunjing Xiao, Jiahao Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">EAI CollaborateCom, 2022</div></div></div>
+<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">EAI 2022</div></div></div>
 <div class='paper-box-text' markdown="1" style="max-width: 90%;">
 
 [Transfer Knowledge Between Cities by Incremental Few-Shot Learning](https://link.springer.com/chapter/10.1007/978-3-030-92638-0_15)
@@ -95,7 +95,7 @@ Jiahao Wang, Wenxiong Li, **Xiuxiu Qi（*）**, Yuheng Ren
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">EAI CollaborateCom, 2022</div></div></div>
+<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">GLOBECOM 2020</div></div></div>
 <div class='paper-box-text' markdown="1" style="max-width: 90%;">
 
 [Meta-Learned User Preference for Topic Participation Prediction](https://ieeexplore.ieee.org/document/9322197)
