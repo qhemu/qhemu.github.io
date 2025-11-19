@@ -34,8 +34,8 @@ My current research is primarily focused on Embodied AI, leveraging Spatial Inte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image' style="min-width: 56px; max-width: 0%;"><div><div class="badge">AAAI 2026</div></div></div>
+<div class='paper-box-text' markdown="1" style="max-width: 90%;">
 
 [Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning](https://arxiv.org/abs/2511.14396)
 
