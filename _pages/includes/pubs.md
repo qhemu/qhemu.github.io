@@ -62,7 +62,7 @@ Computer Science (Chinese Periodicals)
 
 [Transfer Knowledge Between Cities by Incremental Few-Shot Learning](https://link.springer.com/chapter/10.1007/978-3-030-92638-0_15)
 
-Jiahao Wang, Wenxiong Li, **Xiuxiu Qi（*）**, Yuheng Ren
+Jiahao Wang, Wenxiong Li, **Xiuxiu Qi[*]**, Yuheng Ren
 </div>
 </div>
 
