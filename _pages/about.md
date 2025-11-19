@@ -29,7 +29,7 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 
 # 🔥 News
 - 2025.11: 🎉🎉 A paper is accepted by the AAAI Conference on Artificial Intelligence (AAAI 2026).
-- 2025.11: 🎉🎉 A paper is accepted by the SCIENCE CHINA Information Sciences (SCIS), Congratulations to Hanqian.
+- 2025.11: 🎉🎉 A paper is accepted by the Science China Information Sciences (SCIS). Congratulations to Hanqian.
 - 2025.09: 🎉 Awarded the Recognition Award on the MATA Awards 2024/25 for teaching COMP1012. 
 - 2025.07: 🎉 Awarded the Research Student Attachment Programme (RSAP) funding for the research visit to Imperial College London (ICL).
 
