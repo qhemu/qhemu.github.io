@@ -5,7 +5,7 @@
 
 **Xiuxiu Qi**, Yu Yang, Jiannong Cao, Luyao Bai, Chongshan Fan, Chengtai Cao, Hongpeng Wang  
 
-[**Project**](https://qhemu.github.io/CCoL/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://qhemu.github.io/CCoL/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>AAAI26(for a 17.6% overall acceptance rate)</span></strong>
 </div>
 </div>
 
