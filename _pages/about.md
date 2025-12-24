@@ -59,7 +59,6 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 - *2022-2025* Nankai University Public Ability Scholarship for three consecutive years.  
 - *2022* ByteDance Best Newcomer Award.  
 - *2019-2021* The First-Class Merit Scholarship for two consecutive years. 
-- *2019* Outstanding Postgraduate.
 
 
 
