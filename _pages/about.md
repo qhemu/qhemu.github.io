@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the prestigious Dual Degree Ph.D. Program jointly offered by the Department of Computing at The Hong Kong Polytechnic University (PolyU) and the School of Artificial Intelligence at Nankai University. I am under the joint supervision of <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Prof. Jiannong Cao</a> and <a href='https://farlab.nankai.edu.cn/FACULTY_STAFFS.htm'>Prof. Hongpeng Wang</a>. 
+I am a Ph.D. candidate in the Dual Degree Ph.D. Program jointly offered by the Department of Computing at The Hong Kong Polytechnic University (PolyU) and the School of Artificial Intelligence at Nankai University. I am under the joint supervision of <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Prof. Jiannong Cao</a> and <a href='https://farlab.nankai.edu.cn/FACULTY_STAFFS.htm'>Prof. Hongpeng Wang</a>. 
 
 My current research is primarily focused on Embodied AI, leveraging Spatial Intelligence and Multimodal learning to advance Imitation Learning and address uncertainty and optimization challenges in sequential decision-making. My broader expertise spans key areas including Deep Learning, Meta-Learning, Few-Shot Learning, and Uncertainty Quantification. I actively seek to translate theoretical advancements into robust, real-world Embodied AI applications.
 
