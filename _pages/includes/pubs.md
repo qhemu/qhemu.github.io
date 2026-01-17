@@ -1,4 +1,4 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div></div></div>
 <div class='paper-box-text' markdown="1" >
 
 [Neuro-Symbolic Reachability Reasoning for Physically Grounded Embodied Question Answering](#)
@@ -10,7 +10,7 @@
 
 
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div></div></div>
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div></div></div>
 <div class='paper-box-text' markdown="1" >
 
 [Towards Object-Level Multimodal Task Planning for Long-Term Robotic Manipulation with Vision Language Model and Behavior Tree](#)
