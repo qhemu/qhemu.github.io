@@ -36,7 +36,7 @@ Hanqian Luo, Zezhi Liu, Jiannong Cao, **Xiuxiu Qi**, Julie McCann, Yongchun Fang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div></div></div>
 <div class='paper-box-text' markdown="1" >
 
-[Context-aware embodied intelligence: from environmental understanding to autonomous decision-making](#)
+[Context-aware embodied intelligence: from environmental understanding to autonomous decision-making](https://doi.org/10.1360/SSI-2025-0245)
 
 Hanqian Luo, Jiannong Cao, **Xiuxiu Qi**, Rui Cao, Yongchun Fang
 </div>
