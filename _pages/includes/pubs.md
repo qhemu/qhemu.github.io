@@ -3,7 +3,7 @@
 
 [Neuro-Symbolic Reachability Reasoning for Physically Grounded Embodied Question Answering](#)
 
-**Xiuxiu Qi**, Jiannong Cao, Chongshan Fan, Hanqian Luo, Julie McCann, Hongpeng Wang
+**Xiuxiu Qi**, Jiannong Cao, Chongshan Fan, Hanqian Luo, Julie McCann, Hongpeng Wang [SL-HLT-QUES/MM-MOD-ANLS]
 </div>
 </div>
 
@@ -15,7 +15,7 @@
 
 [Towards Object-Level Multimodal Task Planning for Long-Term Robotic Manipulation with Vision Language Model and Behavior Tree](#)
 
-Hanqian Luo, Zezhi Liu, Jiannong Cao, **Xiuxiu Qi**, Julie McCann, Yongchun Fang
+Hanqian Luo, Zezhi Liu, Jiannong Cao, **Xiuxiu Qi**, Julie McCann, Yongchun Fang [AS-APP-ROBO/AS-APP-GPT]
 </div>
 </div>
 
