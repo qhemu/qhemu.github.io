@@ -1,3 +1,26 @@
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div></div></div>
+<div class='paper-box-text' markdown="1" >
+
+[Neuro-Symbolic Reachability Reasoning for Physically Grounded Embodied Question Answering](#)
+
+**Xiuxiu Qi**, Jiannong Cao, Chongshan Fan, Hanqian Luo, Julie McCann, Hongpeng Wang
+</div>
+</div>
+
+
+
+
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS 2025</div></div></div>
+<div class='paper-box-text' markdown="1" >
+
+[Towards Object-Level Multimodal Task Planning for Long-Term Robotic Manipulation with Vision Language Model and Behavior Tree](#)
+
+Hanqian Luo, Zezhi Liu, Jiannong Cao, **Xiuxiu Qi**, Julie McCann, Yongchun Fang
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div></div></div>
 <div class='paper-box-text' markdown="1" >
 
