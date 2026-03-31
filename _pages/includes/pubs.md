@@ -1,9 +1,19 @@
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RAL 2026</div></div></div>
+<div class='paper-box-text' markdown="1" >
+
+[Semantic-Aware Behavior Optimization with Safety Reinforcement Feedback for Language-Conditioned Manipulation](#)
+
+**Xiuxiu Qi**, Jiannong Cao, Julie A. McCann, Chongshan Fan, Hanqian Luo, Hongpeng Wang 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div></div></div>
 <div class='paper-box-text' markdown="1" >
 
 [Neuro-Symbolic Reachability Reasoning for Physically Grounded Embodied Question Answering](#)
 
-**Xiuxiu Qi**, Jiannong Cao, Chongshan Fan, Hanqian Luo, Julie McCann, Hongpeng Wang [Submission Topic: SL-HLT-QUES/MM-MOD-ANLS]
+**Xiuxiu Qi**, Jiannong Cao, Chongshan Fan, Hanqian Luo, Julie A. McCann, Hongpeng Wang [Submission Topic: SL-HLT-QUES/MM-MOD-ANLS]
 </div>
 </div>
 
