@@ -28,6 +28,7 @@ My foundational academic journey in Software Engineering began at Shandong Norma
 
 
 # 🔥 News
+- 2026.03: 🎉🎉 A paper is accepted by the  IEEE Robotics and Automation Letters (RA-L).
 - 2026.01: 🎉🎉 Two papers are accepted by the 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026). Congratulations to Hanqian.
 - 2025.11: 🎉🎉 A paper is accepted by the AAAI Conference on Artificial Intelligence (AAAI 2026).
 - 2025.11: 🎉🎉 A paper is accepted by the Science China Information Sciences (SCIS). Congratulations to Hanqian.
